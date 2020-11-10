@@ -10,7 +10,7 @@ public class EmpService {
     public EmpService(EmpDao empDao) {
         this.empDao = empDao;
     }
-
+//comment
     public Emp getEmp(){
         return empDao.getemp();
     }

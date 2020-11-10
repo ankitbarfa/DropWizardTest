@@ -1,0 +1,14 @@
+com\toptal\blog\health\DropwizardBlogApplicationHealthCheck.class
+com\toptal\blog\dao\PartsDao.class
+com\toptal\blog\config\DropwizardBlogConfiguration.class
+com\toptal\blog\dao\EmpDao.class
+com\toptal\blog\resource\PartsResource.class
+com\toptal\blog\service\PartsService.class
+com\toptal\blog\mapper\EmpMapper.class
+com\toptal\blog\mapper\PartsMapper.class
+com\toptal\blog\model\Part.class
+com\toptal\blog\model\Emp.class
+com\toptal\blog\controller\DropwizardBlogApplication.class
+com\toptal\blog\representation\Representation.class
+com\toptal\blog\resource\EmpResource.class
+com\toptal\blog\service\EmpService.class
